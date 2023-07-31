@@ -1,9 +1,6 @@
 # Impulse 2k23
-The Cultural Fest website of Bengal Institute of Technology, for the year 2023.
+The official cultural fest website of Bengal Institute of Technology(BIT), Kolkata, for the year 2023. <br>
 
-### Developers :
-Tanmoy Choudhury & Priyankar Sarkar
-
-### Tech stack :
+Front-end developers: Tanmoy Choudhury, Priyankar Sarkar <br>
 Frameworks and libraries: React.JS, Tailwind CSS, Swiper.JS <br>
 Tools: Vite.JS, npm, Git
