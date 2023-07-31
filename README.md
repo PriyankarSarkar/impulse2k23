@@ -1,4 +1,4 @@
-# IMPULSE 2k23
+# Impulse 2k23
 The Cultural Fest website of Bengal Institute of Technology, for the year 2023.
 
 ### Developers :
